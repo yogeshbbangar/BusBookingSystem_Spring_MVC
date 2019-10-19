@@ -1,5 +1,5 @@
-<%@page import="com.capg.bbs.beans.Bus"%>
-<%@page import="com.capg.bbs.beans.Admin"%>
+<%@page import="com.dev.beans.Bus"%>
+<%@page import="com.dev.beans.Admin"%>
 
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
 	pageEncoding="ISO-8859-1"%>
